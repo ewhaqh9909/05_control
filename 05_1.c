@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
     	printf("음수입니다.");
 	}else 
 	{
-		printf("0입니다.");
+		printf("0입니다 .");
 	}
 	return 0;
 }
